@@ -8,6 +8,7 @@ namespace VanillaAdditions.Content.GlobalEnemy.GlobalBoss.DreadNautilus
 {
     public class DreadNautilus_Trophy_Item : ModItem
     {
+        "VanillaAdditions/Assests/Boss/DreadNautilus/DreadNautilus_Trophy_Item"
         public override void SetStaticDefaults()
         {
             DisplayName.SetDefault("Dreadnatilus Trophy");
