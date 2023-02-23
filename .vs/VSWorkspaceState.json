@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\VanillaAdditions",
-    "\\VanillaAdditions\\Assets",
-    "\\VanillaAdditions\\Assets\\Boss",
-    "\\VanillaAdditions\\Assets\\Boss\\DreadNautilus",
-    "\\VanillaAdditions\\Content",
-    "\\VanillaAdditions\\Content\\Items",
-    "\\VanillaAdditions\\Content\\NPCs",
-    "\\VanillaAdditions\\Content\\NPCs\\TownNPCs",
-    "\\VanillaAdditions\\Content\\Tiles"
+    ""
   ],
-  "SelectedNode": "\\VanillaAdditions\\Content\\Tiles\\DirtPlatform.png",
+  "SelectedNode": "\\C:\\Users\\garre\\Source\\Repos\\VanillaAdditionsT-Mod",
   "PreviewInSolutionExplorer": false
 }
