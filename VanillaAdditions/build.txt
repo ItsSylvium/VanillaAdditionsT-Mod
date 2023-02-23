@@ -1,0 +1,3 @@
+displayName = Vanilla Additions
+author = Sylvium
+version = 0.1

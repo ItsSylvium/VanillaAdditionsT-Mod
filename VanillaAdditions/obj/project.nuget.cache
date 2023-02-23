@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UdQ6AstB22HVru3mLkGQ5qqCOOtpMruWsdPO0GE9z4S5UbF40NbbJteJCSo+cWWUHhJsw2/8KK8i6Vsl85lQvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daphn\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\VanillaAdditions\\VanillaAdditions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daphn\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

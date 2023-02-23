@@ -1,0 +1,6 @@
+V.A just adds a few small things to make the game more fun, e.g
+
+-Extremely fast placing platforms.
+-All Whips now are able to be automatically re-used by holding the button(no longer spam click)
+-Ablitiy to craft a bunch of previously uncraftable items, Flinch staff, Mushroom grass seeds...
+-All boss/event items are now sold by npcs(only after defeated).
